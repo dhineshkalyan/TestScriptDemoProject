@@ -7,6 +7,7 @@
         - SpecFlow
         - SpecFlow.NUnit
         - SpecFlow.NUnit.Runners
+        - SpecFlow for Visual Studio 1* from the Extensions and Updates
 # Enable Nunit or Ms Test Libraries to enable the Unit Test Run
 # Once the Built is successful, Run the test cases
 # Observe the Result
